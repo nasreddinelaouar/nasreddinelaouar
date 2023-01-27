@@ -1,4 +1,4 @@
-### Hi everybody 👋 Nice to Meet you ! My name is Nasreddine Laouar
+### Hi everybody 👋 Pleased to meet you ! My name is Nasreddine Laouar
 
 <!--
 **nasreddinelaouar/nasreddinelaouar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
