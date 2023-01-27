@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/115075943/215064395-9554bf19-c3f1-467f-a8d1-edee4d1ded8b.jpg)
 
-Hi everyone![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Nice to meet you, my name is Nasreddine Laouar
+Hi everyone![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Nice to meet you, my name is Nasreddine Laouar
 =========================================================================================================================================
 
 Broadcast Engineering Expert - Devops/Cloud Engineering
@@ -16,9 +16,13 @@ Currently enrolled in a comprehensive 24 week Cloud Bootcamp program that is sup
 <a href="https://www.github.com/nasreddinelaouar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nasreddinelaouar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-###  ⚡ Technologies - Skills:
-<!-- Check out the Badges folder for more badges -->
+### Socials:
 
+<p align="left"> <a href="https://www.github.com/nasreddinelaouar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nasreddinelaouar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@laouarn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+
+
+###  ⚡ Technologies - Skills:
+-------------------------------------------------------
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -28,15 +32,10 @@ src="https://img.shields.io/github/followers/nasreddinelaouar?logo=github&style=
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-</p>
 
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/nasreddinelaouar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nasreddinelaouar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@laouarn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
-
-
-<b>My GitHub Stats</b>
+### My GitHub Stats:
 
 <a href="http://www.github.com/nasreddinelaouar"><img src="https://github-readme-stats.vercel.app/api?username=nasreddinelaouar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nasreddinelaouar's GitHub stats" /></a>
 
