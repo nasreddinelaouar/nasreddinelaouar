@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/115075943/215064395-9554bf19-c3f1-467f-a8d1-edee4d1ded8b.jpg)
 
-Hi everyone![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am pleased to meet you, my name is Nasreddine LAOUAR
+Hi everyone![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Pleased to meet you, my name is Nasreddine LAOUAR
 =========================================================================================================================================
 
 Broadcast Engineering Expert / Devops/Cloud Engineering
