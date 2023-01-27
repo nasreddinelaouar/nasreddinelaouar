@@ -6,7 +6,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Broadcast Engineering Expert / Devops/Cloud Engineering
 -------------------------------------------------------
 
-After more than 14 years in the broadcast industry, I have exceptional knowledge of operating scheduled programs, setting up live on-site, event, and remote broadcasts, and resolving broadcast issues when they arise. Currently enrolled in a comprehensive 24 week Cloud Bootcamp program that is supported by real-world projects and industry mentoring. Skills: Linux - AWS - Terraform - Python - Docker - Kubernetes - Cloud Computing - CI/CD - Git - GitHub - Jenkins - DevOps · Terraform - Python · DevOps - Cloud Computing - Cloud Applications · Docker -
+After more than 14 years in the broadcast industry, I have exceptional knowledge of operating scheduled programs, setting up live on-site, event, and remote broadcasts, and resolving broadcast issues when they arise. 
+Currently enrolled in a comprehensive 24 week Cloud Bootcamp program that is supported by real-world projects and industry mentoring. Skills: Linux - AWS - Terraform - Python - Docker - Kubernetes - Cloud Computing - CI/CD - Git - GitHub - Jenkins - DevOps · Terraform - Python · DevOps - Cloud Computing - Cloud Applications · Docker -
 
 * ✉️  You can contact me at [laouarn@hotmail.com](mailto:laouarn@hotmail.com)
 * 🧠  I'm learning Terraform - Docker - Kubernetes
