@@ -1,12 +1,8 @@
 ![banner](https://user-images.githubusercontent.com/115075943/215064395-9554bf19-c3f1-467f-a8d1-edee4d1ded8b.jpg)
 
-### Hi everyone![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Nice to meet you, my name is Nasreddine Laouar
+### Hi all![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Nice to meet you, my name is Nasreddine Laouar
 -------------------------------------------------------
-
-
-### Broadcast Engineering Expert - Devops/Cloud Engineering
--------------------------------------------------------
-
+### I'm Broadcast Engineering Expert - Devops/Cloud Engineering
 After more than 14 years in the broadcast industry, I have exceptional knowledge of operating scheduled programs, setting up live on-site, event, and remote broadcasts, and resolving broadcast issues when they arise.
 Currently enrolled in a comprehensive 24 week Cloud Bootcamp program that is supported by real-world projects and industry mentoring. Skills: Linux - AWS - Terraform - Python - Docker - Kubernetes - Cloud Computing - CI/CD - Git - GitHub - Jenkins - DevOps.
 
