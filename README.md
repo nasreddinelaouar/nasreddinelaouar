@@ -15,11 +15,18 @@ Currently enrolled in a comprehensive 24 week Cloud Bootcamp program that is sup
 <a href="https://www.github.com/nasreddinelaouar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nasreddinelaouar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-###  Skills
+###  ⚡ Technologies - Skills:
+<!-- Check out the Badges folder for more badges -->
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 </p>
 
 
@@ -28,6 +35,7 @@ src="https://img.shields.io/github/followers/nasreddinelaouar?logo=github&style=
 <p align="left"> <a href="https://www.github.com/nasreddinelaouar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nasreddinelaouar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@laouarn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
 ### Badges
+
 
 <b>My GitHub Stats</b>
 
